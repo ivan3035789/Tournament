@@ -1,4 +1,4 @@
-# Tournament
+# Tournament [![Java CI with Gradle](https://github.com/ivan3035789/Tournament/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/ivan3035789/Tournament/actions/workflows/gradle-publish.yml)
 
 # Задание 1. Турнир (обязательное к выполнению)
 Ваша задача - разработать класс, управляющий турниром игроков. Каждый игрок описывается дата-классом `Player` с полями - `id`, `name`, `strength` (сила).
